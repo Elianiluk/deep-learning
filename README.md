@@ -8,16 +8,13 @@ Core Concepts of Neural Networks: Gained a comprehensive understanding of neural
 CNNs and RNNs: Explored Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs), covering their application in image recognition, natural language processing, and sequence-based tasks.
 Implementing Neural Networks: Learned to implement neural network architectures using both foundational Python and advanced deep learning frameworks like PyTorch, allowing for flexibility and a deeper understanding of the underlying mechanics.
 Key Learning Objectives
-Theory and Intuition:
-
+1. Theory and Intuition
 Studied the mathematical foundations and abstract concepts behind neural networks, including activation functions, backpropagation, loss functions, and optimization techniques.
 Delved into practical considerations for model performance, such as overfitting, regularization, and hyperparameter tuning.
-Hands-On Implementation:
-
+2. Hands-On Implementation
 Implemented CNNs, RNNs, and other neural architectures from scratch in Python, reinforcing understanding of each component's role within a network.
 Built and optimized models using PyTorch, focusing on leveraging the framework's tools to simplify complex network designs and streamline the development process.
-Advanced Techniques and Applications:
-
+3. Advanced Techniques and Applications
 Gained exposure to cutting-edge research in computer vision, including techniques for object detection, image segmentation, and transfer learning.
 Experimented with pre-trained models and fine-tuned them for specific tasks, adapting general architectures to fit custom datasets.
 Project Structure

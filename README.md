@@ -4,9 +4,12 @@ This repository showcases my work and learning progress through Stanford Univers
 ## Overview
 Through this course, I focused on understanding and implementing a variety of neural network models and techniques, including:
 
-Core Concepts of Neural Networks: Gained a comprehensive understanding of neural networks, their architecture, and the underlying theories that power deep learning.
-CNNs and RNNs: Explored Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs), covering their application in image recognition, natural language processing, and sequence-based tasks.
-Implementing Neural Networks: Learned to implement neural network architectures using both foundational Python and advanced deep learning frameworks like PyTorch, allowing for flexibility and a deeper understanding of the underlying mechanics.
+### Core Concepts of Neural Networks:
+Gained a comprehensive understanding of neural networks, their architecture, and the underlying theories that power deep learning.
+### CNNs and RNNs:
+Explored Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs), covering their application in image recognition, natural language processing, and sequence-based tasks.
+### Implementing Neural Networks: 
+Learned to implement neural network architectures using both foundational Python and advanced deep learning frameworks like PyTorch, allowing for flexibility and a deeper understanding of the underlying mechanics.
 ## Key Learning Objectives
 ### 1. Theory and Intuition
 Studied the mathematical foundations and abstract concepts behind neural networks, including activation functions, backpropagation, loss functions, and optimization techniques.

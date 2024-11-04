@@ -4,9 +4,9 @@ This repository showcases my work and learning progress through Stanford Univers
 ## Overview
 Through this course, I focused on understanding and implementing a variety of neural network models and techniques, including:
 
-### Core Concepts of Neural Networks: Gained a comprehensive understanding of neural networks, their architecture, and the underlying theories that power deep learning.
-### CNNs and RNNs: Explored Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs), covering their application in image recognition, natural language processing, and sequence-based tasks.
-### Implementing Neural Networks: Learned to implement neural network architectures using both foundational Python and advanced deep learning frameworks like PyTorch, allowing for flexibility and a deeper understanding of the underlying mechanics.
+Core Concepts of Neural Networks: Gained a comprehensive understanding of neural networks, their architecture, and the underlying theories that power deep learning.
+CNNs and RNNs: Explored Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs), covering their application in image recognition, natural language processing, and sequence-based tasks.
+Implementing Neural Networks: Learned to implement neural network architectures using both foundational Python and advanced deep learning frameworks like PyTorch, allowing for flexibility and a deeper understanding of the underlying mechanics.
 ## Key Learning Objectives
 ### 1. Theory and Intuition
 Studied the mathematical foundations and abstract concepts behind neural networks, including activation functions, backpropagation, loss functions, and optimization techniques.
@@ -18,31 +18,9 @@ Built and optimized models using PyTorch, focusing on leveraging the framework's
 Gained exposure to cutting-edge research in computer vision, including techniques for object detection, image segmentation, and transfer learning.
 Experimented with pre-trained models and fine-tuned them for specific tasks, adapting general architectures to fit custom datasets.
 ## Project Structure
-### Notebooks: Contains Jupyter notebooks with annotated code, demonstrating key concepts and practical implementations from the course.
-### Models: A collection of implemented neural network architectures, including fully connected networks, CNNs, and RNNs, each organized in individual Python scripts or modules.
-### Resources: Links to relevant papers, additional tutorials, and resources for further study in deep learning and neural networks.
+Notebooks: Contains Jupyter notebooks with annotated code, demonstrating key concepts and practical implementations from the course.
+Models: A collection of implemented neural network architectures, including fully connected networks, CNNs, and RNNs, each organized in individual Python scripts or modules.
+Resources: Links to relevant papers, additional tutorials, and resources for further study in deep learning and neural networks.
 Getting Started
-To explore the code and models:
-
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/CS231n-deep-learning.git
-cd CS231n-deep-learning
-Install required dependencies:
-
-bash
-Copy code
-pip install -r requirements.txt
-Run the Jupyter notebooks to walk through the implementations and experiments.
-
-Requirements
-This project requires Python 3.8+ and the following packages (listed in requirements.txt):
-
-PyTorch
-NumPy
-Matplotlib
-Jupyter
-Key Takeaways
+## Key Takeaways
 This course allowed me to build a strong foundation in both theoretical and applied aspects of deep learning and neural networks. By implementing models from scratch and experimenting with PyTorch, I gained a hands-on understanding that will serve as a basis for further studies and projects in machine learning and AI.
